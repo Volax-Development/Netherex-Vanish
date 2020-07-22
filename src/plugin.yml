@@ -1,0 +1,9 @@
+name: NetherexVanish
+version: 1.0.01a
+description: Netherex&Vanish
+api-version: 1.14
+author: Volax
+main: fr.volax.netherexvanish.NetherexVanish
+commands:
+  vanish:
+    description: Vanish command
